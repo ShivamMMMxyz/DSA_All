@@ -1,0 +1,26 @@
+oops is a methadology to design a program using classes and objects
+for scalability
+
+1. data abstraction - In C++, data abstraction means designing classes in such a way that:
+The user of the class doesn’t need to know how it works internally.
+They only need to know what it does.
+advanyagrs -secure and better user experience
+
+2. data encapsulation  encapsulation means:
+Keeping data private or protected.
+Providing public methods (getters/setters) to access or modify that data safely.
+
+3. inheritance-Inheritance is a mechanism where one class (child/derived class) acquires the properties and behaviors (data members and member functions) of another class (parent/base class).
+✅ Why Use Inheritance?
+Code reuse – you don’t need to write the same code again.
+Hierarchical classification – "is-a" relationships.
+Makes programs easier to maintain and scale.
+4. Polymorphism
+Polymorphism means "many forms." same code diff fn/work
+It allows one function, method, or operator to behave differently based on the context.
+
+
+classes are user-defined datatype
+
+access modifiers
+private public protected

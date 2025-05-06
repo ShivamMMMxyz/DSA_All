@@ -1,0 +1,3 @@
+stack compile time memory  int a =5 statc allocation
+
+heap real time mmmry  a =new int(5) dynamic allocation

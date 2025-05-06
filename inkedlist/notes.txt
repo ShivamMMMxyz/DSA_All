@@ -1,0 +1,9 @@
+arrays give continous memory location and have fixed size
+
+
+linked list -> idea of linking two non contagious memory locations
+mai ek bande ko janta hu jo agle bande ko janta h
+
+linked list have unlimited size 
+
+last element ie tail while (temp.next =null)
